@@ -9,7 +9,7 @@ const BASE_URLS = [
   'https://www.tasker.com.tw/case/list?ca=Brg',
 ]
 const MAX_PAGES = 5 // 每個類別要爬取的總頁數
-const KEYWORDS = ['Vue', 'Nuxt', '前端', 'React', 'JavaScript']
+const KEYWORDS = ['Vue', 'Nuxt', '前端', 'React', 'JavaScript', '切版']
 
 /**
  * 爬取 Tasker 案件
